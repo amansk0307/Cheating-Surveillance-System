@@ -43,5 +43,5 @@ An automated, machine learning-driven proctoring system designed to maintain int
    ```bash
    python main.py
 ## 📂 Output & Logs
-* When a policy violation is triggered:
-**Screenshots:** Stored in logs/ labeled with date and time.
+When a policy violation is triggered:
+* **Screenshots:** Stored in logs/ labeled with date and time.
