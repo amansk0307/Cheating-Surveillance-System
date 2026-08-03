@@ -37,5 +37,11 @@ An automated, machine learning-driven proctoring system designed to maintain int
    git clone [https://github.com/amansk0307/Cheating-Surveillance-System.git](https://github.com/amansk0307/Cheating-Surveillance-System.git)
    cd Cheating-Surveillance-System
 2. **Install dependencies:**
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+3. **Run the program:**
+   ```bash
+   python main.py
+## 📂 Output & Logs
+When a policy violation is triggered:
+*Screenshots:* Stored in logs/ labeled with date and time.
